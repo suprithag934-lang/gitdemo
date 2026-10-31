@@ -2,3 +2,5 @@ welcome to git
 this is my first git program
 hello
 this line is added from remote repository
+this is the original content
+this is new line added from local computer
